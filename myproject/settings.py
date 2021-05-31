@@ -15,7 +15,7 @@ SECRET_KEY = '-taty3pv6rv^^y%6stvmx-u=6%+!l63e@(x86y^-55334(#m-s'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['todoadityaapp.herokuapp.com','127.0.0.1']
+ALLOWED_HOSTS = ['todoadityaapp.herokuapp.com','127.0.0.1','tododjangoaditya.herokuapp.com']
 
 
 # Application definition
